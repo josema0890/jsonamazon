@@ -1,9 +1,4 @@
-{
-    "iTotalRecords": 350,
-    "iTotalDisplayRecords": 350,
-    "sEcho": 0,
-    "sColumns": "",
-    "aaData": [
+[
         {
             "RecordID": 1,
             "OrderID": "61715-075",
@@ -291,4 +286,3 @@
             "Actions": null
         }
     ]
-}
