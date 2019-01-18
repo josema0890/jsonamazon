@@ -347,21 +347,4 @@
   "AMZInbound": "yes",
   "AMZReserved": "no",
   "MinThreshold": 80
-}, {
-  "ASIN": "vitX2F5",
-  "Weight": 103,
-  "ProductName": "Kanlam",
-  "BrandName": "Miboo",
-  "SKU": "XOQmTK",
-  "FNSKU": "rRoFfQDZM",
-  "CostOfPurchase": 177.12,
-  "Supplier": "Ulrike Giaomozzo",
-  "SupplierItemNumber": "PWui4qnXAL",
-  "PackagingType": "boxed",
-  "PrepRequirements": "boxed",
-  "ProductLabelHyperlink": "s7XfkND0XqbK",
-  "AMZInStock": "no",
-  "AMZInbound": "yes",
-  "AMZReserved": "no",
-  "MinThreshold": 42
 }]
